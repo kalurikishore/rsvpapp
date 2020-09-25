@@ -24,7 +24,7 @@ spec:
       }
   }
 environment {
-    IMAGE_REPO = "kalurikishore/rsvpapp"
+    IMAGE_REPO = "9742737705/rsvpapp"
     // Instead of nkhare, use your git username
 }
 stages {
